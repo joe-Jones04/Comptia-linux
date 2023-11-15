@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ac70cfc1ea85fe24",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e245da642e26bb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83226d69e96435a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comptia/1.0 System Management/Basic Boot Process/Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb5a0ed736ffbb60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0bf2127acdf23d",
+    "type": "split",
+    "children": [
+      {
+        "id": "db7298b8ed08165e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82c49058c63fe850",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c249cc05789d021",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21ff3e3842a4c15d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 329.5
+  },
+  "right": {
+    "id": "724da3f396b10e03",
+    "type": "split",
+    "children": [
+      {
+        "id": "8db80c7dbd74858c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9626d2b7c3405d9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df74c5b99fca4eb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6caf159be7b7f95c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41f54085e92222a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "cb5a0ed736ffbb60",
+  "lastOpenFiles": [
+    "comptia/1.0 System Management/Basic Boot Process/Commands.md",
+    "comptia/1.0 System Management/Basic package compliation from source/compliation.md",
+    "comptia/1.0 System Management/Device types in dev/Device types.md",
+    "comptia/1.0 System Management/FHS (FileSystem Hierarchy Standard)/FileSystem.md",
+    "comptia/1.0 System Management/Kernel Panic/Kernel panic.md",
+    "comptia/1.0 System Management/Listing Hardware infomation/hardware infomation.md",
+    "comptia/1.0 System Management/storage concepts/storage concepts.md",
+    "comptia/1.0 System Management/Listing Hardware infomation",
+    "comptia/1.0 System Management/storage concepts",
+    "comptia/1.0 System Management/Basic package compliation from source",
+    "comptia/1.0 System Management/Basic Boot Process/Boot Process.md",
+    "comptia/1.0 System Management/Device types in dev",
+    "comptia/1.0 System Management/Kernel Panic",
+    "comptia/1.0 System Management/Basic Boot Process",
+    "comptia/1.0 System Management/FHS (FileSystem Hierarchy Standard)",
+    "comptia/4.0 Troubleshooting",
+    "comptia/3.0 Scripting,Containers,Automation",
+    "comptia/2.0 Security"
+  ]
+}
