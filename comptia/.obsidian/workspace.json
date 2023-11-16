@@ -11,11 +11,24 @@
             "id": "53d86e65c82c0835",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "1.0 System Management/configure manage storage/Storage hardware.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b87c21c0fafac196",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#systemManagement",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,6 +151,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53d86e65c82c0835",
-  "lastOpenFiles": []
+  "active": "b87c21c0fafac196",
+  "lastOpenFiles": [
+    "1.0 System Management/configure manage storage/Storage hardware.md",
+    "1.0 System Management/configure manage storage/FileSystem management.md",
+    "1.0 System Management/configure manage storage/SAN-NAS.md",
+    "1.0 System Management/configure manage storage/creating modifying volumes using LVM.md",
+    "1.0 System Management/configure manage storage/mounting local and remote device.md",
+    "1.0 System Management/configure manage storage/inspecting Raid implementations.md",
+    "1.0 System Management/configure manage storage/monitoring storage and disk usage.md",
+    "1.0 System Management/configure manage storage/disk partitioning.md",
+    "1.0 System Management/given a scenario, manage files and directorys/file compression and archiving.md",
+    "1.0 System Management/given a scenario, manage files and directorys/file and directory operations.md",
+    "1.0 System Management/given a scenario, manage files and directorys/File editing.md",
+    "1.0 System Management/given a scenario, manage files and directorys/file metadata.md",
+    "1.0 System Management/given a scenario, manage files and directorys/soft and hard links.md",
+    "1.0 System Management/given a scenario, manage files and directorys/copying files between systems.md",
+    "1.0 System Management/configure manage storage",
+    "1.0 System Management/c.md",
+    "1.0 System Management/given a scenario, manage files and directorys/file editing",
+    "1.0 System Management/given a scenario, manage files and directorys",
+    "1.0 System Management/summarise linux fundementals"
+  ]
 }
