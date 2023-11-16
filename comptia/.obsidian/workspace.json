@@ -23,8 +23,12 @@
             "id": "b87c21c0fafac196",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1.0 System Management/Updating configuration files/Localization.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -57,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#systemManagement",
+                "query": "tag:#service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.0 System Management/Updating configuration files/Localization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.0 System Management/Updating configuration files/Localization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1.0 System Management/Updating configuration files/Localization.md"
+              }
             }
           }
         ]
@@ -153,6 +161,21 @@
   },
   "active": "b87c21c0fafac196",
   "lastOpenFiles": [
+    "1.0 System Management/Updating configuration files/configure kernel options.md",
+    "1.0 System Management/Updating configuration files/configure common services.md",
+    "1.0 System Management/summarise linux fundementals/FHS (FileSystem Hierarchy Standard)/FileSystem.md",
+    "1.0 System Management/Updating configuration files/updating config files.md",
+    "1.0 System Management/Updating configuration files/Localization.md",
+    "1.0 System Management/Updating configuration files/configure common services",
+    "1.0 System Management/config and using appropriate networking tools or files/System updates.md",
+    "1.0 System Management/Updating configuration files",
+    "1.0 System Management/config and using appropriate networking tools or files/Sandboxed applications.md",
+    "1.0 System Management/config and using appropriate networking tools or files/package management.md",
+    "1.0 System Management/configure and use the appropriate services/process management.md",
+    "1.0 System Management/config and using appropriate networking tools or files",
+    "1.0 System Management/configure and use the appropriate services/scheduling services.md",
+    "1.0 System Management/configure and use the appropriate services/system services.md",
+    "1.0 System Management/configure and use the appropriate services",
     "1.0 System Management/configure manage storage/Storage hardware.md",
     "1.0 System Management/configure manage storage/FileSystem management.md",
     "1.0 System Management/configure manage storage/SAN-NAS.md",

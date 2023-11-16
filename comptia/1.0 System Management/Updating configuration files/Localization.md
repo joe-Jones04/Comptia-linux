@@ -1,0 +1,5 @@
+#commands #systemManagement 
+
+timedatectl
+localectl
+
